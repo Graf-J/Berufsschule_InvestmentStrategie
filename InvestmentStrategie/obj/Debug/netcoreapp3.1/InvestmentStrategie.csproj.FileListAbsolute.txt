@@ -1,0 +1,13 @@
+C:\Users\Johannes\source\repos\Berufsschule\InvestmentStrategie\InvestmentStrategie\bin\Debug\netcoreapp3.1\InvestmentStrategie.exe
+C:\Users\Johannes\source\repos\Berufsschule\InvestmentStrategie\InvestmentStrategie\bin\Debug\netcoreapp3.1\InvestmentStrategie.deps.json
+C:\Users\Johannes\source\repos\Berufsschule\InvestmentStrategie\InvestmentStrategie\bin\Debug\netcoreapp3.1\InvestmentStrategie.runtimeconfig.json
+C:\Users\Johannes\source\repos\Berufsschule\InvestmentStrategie\InvestmentStrategie\bin\Debug\netcoreapp3.1\InvestmentStrategie.runtimeconfig.dev.json
+C:\Users\Johannes\source\repos\Berufsschule\InvestmentStrategie\InvestmentStrategie\bin\Debug\netcoreapp3.1\InvestmentStrategie.dll
+C:\Users\Johannes\source\repos\Berufsschule\InvestmentStrategie\InvestmentStrategie\bin\Debug\netcoreapp3.1\InvestmentStrategie.pdb
+C:\Users\Johannes\source\repos\Berufsschule\InvestmentStrategie\InvestmentStrategie\obj\Debug\netcoreapp3.1\InvestmentStrategie.csprojAssemblyReference.cache
+C:\Users\Johannes\source\repos\Berufsschule\InvestmentStrategie\InvestmentStrategie\obj\Debug\netcoreapp3.1\InvestmentStrategie.AssemblyInfoInputs.cache
+C:\Users\Johannes\source\repos\Berufsschule\InvestmentStrategie\InvestmentStrategie\obj\Debug\netcoreapp3.1\InvestmentStrategie.AssemblyInfo.cs
+C:\Users\Johannes\source\repos\Berufsschule\InvestmentStrategie\InvestmentStrategie\obj\Debug\netcoreapp3.1\InvestmentStrategie.csproj.CoreCompileInputs.cache
+C:\Users\Johannes\source\repos\Berufsschule\InvestmentStrategie\InvestmentStrategie\obj\Debug\netcoreapp3.1\InvestmentStrategie.dll
+C:\Users\Johannes\source\repos\Berufsschule\InvestmentStrategie\InvestmentStrategie\obj\Debug\netcoreapp3.1\InvestmentStrategie.pdb
+C:\Users\Johannes\source\repos\Berufsschule\InvestmentStrategie\InvestmentStrategie\obj\Debug\netcoreapp3.1\InvestmentStrategie.genruntimeconfig.cache
